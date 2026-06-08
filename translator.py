@@ -1,4 +1,4 @@
-from deep-translator import GoogleTranslator
+from deep_translator import GoogleTranslator
 
 def translate_text(text_to_translate, target_language='en'):
     try:
